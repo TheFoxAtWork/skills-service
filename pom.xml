@@ -38,7 +38,7 @@
         <node.version>v12.16.1</node.version>
 
         <httpclient.version>4.5.12</httpclient.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>28.2-jre</guava.version>
 
         <!-- !!!!!IMPORTANT!!!!!: when changing the springboot.version property, make sure you also change it in the parent definition -->
         <springboot.version>2.3.3.RELEASE</springboot.version>
