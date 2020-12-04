@@ -21,7 +21,7 @@
         <java.version>1.11</java.version>
 
         <!-- can NOT name it groovy.version as spock's dependency picks it up-->
-        <groovy.version>2.5.13</groovy.version>
+        <groovy.version>3.0.7</groovy.version>
         <groovy.eclipse.compiler.version>3.6.0-03</groovy.eclipse.compiler.version>
         <groovy.eclipse.batch.version>2.5.12-02</groovy.eclipse.batch.version>
 
@@ -37,7 +37,7 @@
         <frontend-maven-plugin.version>1.7.6</frontend-maven-plugin.version>
         <node.version>v12.16.1</node.version>
 
-        <httpclient.version>4.5.12</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <guava.version>28.1-jre</guava.version>
 
         <!-- !!!!!IMPORTANT!!!!!: when changing the springboot.version property, make sure you also change it in the parent definition -->
